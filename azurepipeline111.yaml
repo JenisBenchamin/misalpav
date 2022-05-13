@@ -16,4 +16,4 @@ jobs:
               script: |
                 # Modify deployment script based on the app type
                 echo "Starting deployment script run"
-                sudo touch /home/yourname.html
+                sudo touch /home/JENIS.html
